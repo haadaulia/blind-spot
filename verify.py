@@ -193,8 +193,7 @@ def verify_absent(results, target_text):
         grounded = False
         if evidence:
             ne = _norm(evidence)
-            probe = ne[:60]
-            grounded = len(ne) >= 12 and probe in norm_full
+            grounded = len(ne) >= 12 and ne in norm_full
         r["verification"] = {"verdict": verdict, "evidence": evidence,
                              "rationale": v.get("reasoning", "") or v.get("rationale", "")}
 
