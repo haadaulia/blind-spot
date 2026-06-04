@@ -41,7 +41,7 @@
       "verification": {
         "verdict": "ABSENT",
         "evidence": "",
-        "rationale": "The target text does not describe climate change risks, but rather supply chain disruptions, component shortages, and production delays due to various factors beyond their control."
+        "rationale": "The target text does not disclose climate change risks at all."
       }
     },
     {
@@ -72,7 +72,7 @@
       "verification": {
         "verdict": "ABSENT",
         "evidence": "",
-        "rationale": "The target text does not describe interest rate exposure, but rather discusses various operational and supply chain risks."
+        "rationale": "The target text does not disclose this risk at all."
       }
     },
     {
@@ -108,7 +108,7 @@
       "verification": {
         "verdict": "ABSENT",
         "evidence": "",
-        "rationale": "The target text does not describe joint venture risks at all."
+        "rationale": "The target text does not disclose any joint venture arrangements or risks associated with them."
       }
     },
     {
@@ -139,7 +139,7 @@
       "verification": {
         "verdict": "ABSENT",
         "evidence": "",
-        "rationale": "The target text does not describe fuel economy risks or emissions reduction."
+        "rationale": "The target text does not disclose this risk at all. The peers' framing is about fuel economy risks, but the target text discusses production ramp delays, manufacturing costs, and supply chain issues, which are different risks."
       }
     },
     {

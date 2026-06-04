@@ -46,7 +46,7 @@
       "verification": {
         "verdict": "COVERED",
         "evidence": "Climate-related physical and transition risks could disrupt our businesses and adversely affect client activity levels and the creditworthiness of our clients and counterparties, and we are at increased risk of being subject to conflicting legal and regulatory requirements and stakeholder expectations regarding climate-related matters.",
-        "rationale": "This span describes the same risk as the claim, including physical risks and transition risks."
+        "rationale": "The target text discloses exposure to the same underlying driver of climate-related risks, including physical and transition risks."
       },
       "explanation": "Verification found the target DOES disclose this, in different framing"
     },
@@ -84,7 +84,7 @@
       "verification": {
         "verdict": "COVERED",
         "evidence": "Our businesses would be adversely affected if we are unable to hire and retain qualified employees.",
-        "rationale": "same hazard, same mechanism"
+        "rationale": "The target text explicitly states the risk of losing qualified employees, which is the same risk as the peer phrasing."
       },
       "explanation": "Verification found the target DOES disclose this, in different framing"
     },
@@ -116,7 +116,7 @@
       "verification": {
         "verdict": "COVERED",
         "evidence": "Substantial civil or criminal liability or significant regulatory action against us has in the past had and may in the future have material adverse financial effects and significant reputational consequences, which in turn could seriously harm our business prospects.",
-        "rationale": "This span describes the same risk as the claim, including the same hazard (litigation and regulatory action) and the same mechanism (material adverse financial effects and significant reputational consequences)."
+        "rationale": "This span describes the same risk as the claim, focusing on the potential for significant regulatory action and its consequences."
       },
       "explanation": "Verification found the target DOES disclose this, in different framing"
     },
@@ -148,7 +148,7 @@
       "verification": {
         "verdict": "COVERED",
         "evidence": "The financial services industry is highly competitive.",
-        "rationale": "The span describes the same risk, same hazard (high competition) and same mechanism (industry characteristics)."
+        "rationale": "The target text explicitly states that the financial services industry is highly competitive, which is the same risk as the claim."
       },
       "explanation": "Verification found the target DOES disclose this, in different framing"
     },
