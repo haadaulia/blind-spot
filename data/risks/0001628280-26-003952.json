@@ -1,0 +1,632 @@
+[
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "We may experience issues or delays in developing, launching and ramping the production of our products, services and features, or we may be unable to control our manufacturing costs.",
+    "quote": "We may experience issues or delays in developing, launching and ramping the production of our products, services and features, or we may be unable to control our manufacturing costs."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "There is no guarantee we will be able to successfully develop or timely introduce and scale these new products, services and features, or that there will be widespread consumer adoption.",
+    "quote": "There is no guarantee we will be able to successfully develop or timely introduce and scale these new products, services and features, or that there will be widespread consumer adoption."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "Any delay or other complication in ramping the production of our current products or the development, manufacture, launch and production ramp of our future products, features and services, or in doing so cost-effectively and with high quality, may harm our brand, business, prospects, financial condition and operating results.",
+    "quote": "Any delay or other complication in ramping the production of our current products or the development, manufacture, launch and production ramp of our future products, features and services, or in doing so cost-effectively and with high quality, may harm our brand, business, prospects, financial condition and operating results."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "Our suppliers may fail to deliver components according to schedules, prices, quality and volumes that are acceptable to us, or we may be unable to manage these components effectively.",
+    "quote": "Our suppliers may fail to deliver components according to schedules, prices, quality and volumes that are acceptable to us, or we may be unable to manage these components effectively."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "Unexpected changes in business conditions, materials pricing, including inflation of raw material costs, labor issues, wars, trade policies, natural disasters, health epidemics, trade and shipping disruptions, port congestions, cyberattacks and other factors beyond our or our suppliers\u2019 control could also affect these suppliers\u2019 ability to deliver technologies or components to us or to remain solvent and operational.",
+    "quote": "Unexpected changes in business conditions, materials pricing, including inflation of raw material costs, labor issues, wars, trade policies, natural disasters, health epidemics, trade and shipping disruptions, port congestions, cyberattacks and other factors beyond our or our suppliers\u2019 control could also affect these suppliers\u2019 ability to deliver technologies or components to us or to remain solvent and operational."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "We may be unable to meet our projected construction timelines, costs and production ramps at new factories, or we may experience difficulties in generating and maintaining demand for products manufactured there and related services.",
+    "quote": "We may be unable to meet our projected construction timelines, costs and production ramps at new factories, or we may experience difficulties in generating and maintaining demand for products manufactured there and related services."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "Our ability to increase production of our vehicles and energy products on a sustained basis, make them affordable globally by accessing local supply chains and workforces and streamline delivery logistics is dependent on the construction and ramp of our current and future factories.",
+    "quote": "Our ability to increase production of our vehicles and energy products on a sustained basis, make them affordable globally by accessing local supply chains and workforces and streamline delivery logistics is dependent on the construction and ramp of our current and future factories."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "We may be unable to grow our global product sales, delivery and installation capabilities and our servicing and vehicle charging networks, or we may be unable to accurately project and effectively manage our growth.",
+    "quote": "We may be unable to grow our global product sales, delivery and installation capabilities and our servicing and vehicle charging networks, or we may be unable to accurately project and effectively manage our growth."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "Because we do not have independent dealer networks, we are responsible for delivering all of our vehicles to our customers.",
+    "quote": "Because we do not have independent dealer networks, we are responsible for delivering all of our vehicles to our customers."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "We may not be able to ramp our business to meet our sales, delivery, installation, servicing and vehicle charging targets globally.",
+    "quote": "There is no assurance that we will be able to ramp our business to meet our sales, delivery, installation, servicing and vehicle charging targets globally,"
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "We may not be able to manage our growth effectively.",
+    "quote": "If we fail to manage our growth effectively, it may harm our brand, business, prospects, financial condition and operating results."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "We are dependent on the continued supply of lithium-ion battery cells.",
+    "quote": "We are dependent on the continued supply of lithium-ion battery cells for our vehicles and energy storage products,"
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "We may not be able to develop and manufacture our own battery cells.",
+    "quote": "However, our efforts to develop and manufacture such battery cells have required, and may continue to require, significant investments,"
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "The prices and availability of raw materials may impact our access to cells and our growth.",
+    "quote": "The prices for these materials fluctuate and their available supply may be unstable,"
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "The market for electric vehicles may not develop as we expect.",
+    "quote": "If the market for electric vehicles in general and Tesla vehicles in particular does not develop as we expect,"
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "We face strong competition in the electric vehicle market.",
+    "quote": "We face strong competition for our products and services from a growing list of established and new competitors."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "We may not be able to develop and commercialize Bots successfully.",
+    "quote": "While this development requires significant cash investments and management resources, there is no guarantee this business will be successful."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "Risks Related to Our Operations",
+    "title": "We may experience issues with lithium-ion cells or other components manufactured at our Gigafactories.",
+    "quote": "We may experience issues with lithium-ion cells or other components manufactured at our Gigafactories,"
+  },
+  {
+    "ticker": "TSLA",
+    "category": "Risks Related to Our Operations",
+    "title": "We may not be able to maintain and grow our operations cost-effectively.",
+    "quote": "If we are unable to or otherwise do not maintain and grow our respective operations,"
+  },
+  {
+    "ticker": "TSLA",
+    "category": "Risks Related to Our Operations",
+    "title": "We may face disruptions to the operation of our facilities.",
+    "quote": "Any mishandling of these products may cause disruption to the operation of such facilities."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "Risks Related to Our Operations",
+    "title": "We may face risks associated with maintaining and expanding our international operations.",
+    "quote": "We face risks associated with maintaining and expanding our international operations,"
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "We are subject to legal and regulatory requirements, political uncertainty and social, environmental and economic conditions in numerous jurisdictions.",
+    "quote": "We are subject to legal and regulatory requirements, political uncertainty and social, environmental and economic conditions in numerous jurisdictions,"
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "Our operations in foreign jurisdictions create risks relating to conforming our products to regulatory and safety requirements and charging and other electric infrastructures.",
+    "quote": "Our operations in such jurisdictions, particularly as a company based in the U.S., with additional manufacturing operations in China and Europe, create risks relating to conforming our products to regulatory and safety requirements and charging and other electric infrastructures;"
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "We may be required to defend or insure against product liability claims.",
+    "quote": "The automobile industry generally experiences significant product liability claims, and as such we face the risk of such claims in the event our vehicles do not perform or are claimed to not perform as expected."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "We may be unable to effectively grow, or manage the compliance, residual value, financing and credit risks related to, our various financing programs.",
+    "quote": "We may be unable to effectively grow, or manage the compliance, residual value, financing and credit risks related to, our various financing programs."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "We will need to maintain public credibility and confidence in our long-term business prospects in order to succeed.",
+    "quote": "In order to maintain and grow our business, we must maintain credibility and confidence among customers, suppliers, analysts, investors, ratings agencies and other parties in our long-term financial viability and business prospects."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "Significant changes to interest rates could adversely affect our results of operations.",
+    "quote": "Retaliatory tariffs imposed by other countries on U.S. exports, further increases in U.S. tariffs, and the uncertainties surrounding domestic and foreign tariffs have impacted the pricing for our products, which could adversely impact demand."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "Our products or features may contain defects, fail to perform as expected or take longer than expected to become fully functional.",
+    "quote": "Our business may suffer if our products or features contain defects, fail to perform as expected or take longer than expected to become fully functional."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "We may experience delivery delays, product recalls, allegations of product liability, breach of warranty and related consumer protection claims and significant warranty and other expenses.",
+    "quote": "If our products contain design or manufacturing defects, whether relating to our software or hardware, that cause them not to perform as designed or intended or that require repair,"
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "Any product liability claim may subject us to lawsuits and substantial monetary damages, product recalls or redesign efforts, and even a meritless claim may require us to defend it.",
+    "quote": "Any product liability claim may subject us to lawsuits and substantial monetary damages, product recalls or redesign efforts, and even a meritless claim may require us to defend it,"
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "We may be unable to maintain public credibility and confidence in our long-term business prospects.",
+    "quote": "Maintaining such confidence may be challenging due to our limited operating history relative to established competitors;"
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "We may be unable to effectively manage the compliance, residual value, financing and credit risks related to, our various financing programs.",
+    "quote": "If we do not successfully monitor and comply with applicable national, state and/or local financial regulations and consumer protection laws governing these transactions,"
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "We may be unable to grow our vehicle deliveries if we cannot adequately fund our leasing program through internal funds, partners or other financing sources.",
+    "quote": "If we are unable to adequately fund our leasing program through internal funds, partners or other financing sources,"
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "We may be unable to effectively manage the resulting greater levels of residual risk if our vehicle leasing business grows substantially.",
+    "quote": "Furthermore, if our vehicle leasing business grows substantially, our business may suffer if we cannot effectively manage the resulting greater levels of residual risk."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "Residual value guarantees may be triggered and harm our financial condition and operating results.",
+    "quote": "If the actual resale values of any vehicles resold by our vehicle customers and partners are lower than the residual values we have agreed to with them,"
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "Customer credit risk may result in substantial credit losses and/or impairment charges.",
+    "quote": "In the event of a widespread economic downturn or other catastrophic event, our customers may be unable or unwilling to satisfy their payment obligations to us on a timely basis or at all."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "We may be unable to attract, hire and retain key employees and qualified personnel.",
+    "quote": "If we are unable to attract, hire and retain key employees and qualified personnel, our ability to compete may be harmed."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "The loss of key employees could disrupt our operations or delay product development and ramp.",
+    "quote": "The loss of the services of any of our key employees or any significant portion of our workforce could disrupt our operations or delay the development, introduction and ramp of our products and services."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "We may not be able to successfully attract and retain senior leadership necessary to grow our business.",
+    "quote": "None of our key employees is bound by an employment agreement for any specific term and we may not be able to successfully attract and retain senior leadership necessary to grow our business."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "Employees may leave Tesla due to various factors, including a competitive labor market.",
+    "quote": "Employees may leave Tesla or choose other employers over Tesla due to various factors, such as a very competitive labor market for talented individuals with automotive or technology, including AI, experience,"
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "We may have to expend additional cash to compensate our employees if we cannot obtain shareholder approvals.",
+    "quote": "If we are unable to obtain the requisite shareholder approvals for such future increases, we may have to expend additional cash to compensate our employees"
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "We are highly dependent on the services of Elon Musk, our Chief Executive Officer.",
+    "quote": "We are highly dependent on the services of Elon Musk, Technoking of Tesla and our Chief Executive Officer."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "Our information technology systems or data could be subject to cyber-attacks or other security incidents.",
+    "quote": "Our information technology systems or data, or those of our service providers or customers or users could be subject to cyber-attacks or other security incidents,"
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "Cyber-attacks could result in data breaches, intellectual property theft, and other adverse consequences.",
+    "quote": "which could result in data breaches, intellectual property theft, claims, litigation, regulatory investigations, significant liability, reputational damage and other adverse consequences."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "We may be required to expend significant resources to make corrections or find alternative sources for performing these functions.",
+    "quote": "If these systems or their functionality do not operate as we expect them to, we may be required to expend significant resources to make corrections or find alternative sources for performing these functions."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "Unauthorized control or manipulation of our products\u2019 systems could result in loss of confidence in us and our products.",
+    "quote": "Any unauthorized control or manipulation of our products\u2019 systems could result in loss of confidence in us and our products."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "Our products contain complex information technology systems that could be vulnerable to cyber-attacks.",
+    "quote": "Our products contain complex information technology systems. For example, our vehicles and energy storage products are designed with built-in data connectivity to accept and install periodic remote updates from us to improve or update their functionality."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "Reports of unauthorized access to our products, their systems or data could harm our brand, prospects and operating results.",
+    "quote": "Regardless of their veracity, reports of unauthorized access to our products, their systems or data, as well as other factors that may result in the perception that our products, their systems or data are capable of being hacked, may harm our brand, prospects and operating results."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "Our business may be adversely affected by any disruptions caused by union activities.",
+    "quote": "Our business may be adversely affected by any disruptions caused by union activities."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "We may be negatively impacted by any early obsolescence of our manufacturing and other equipment.",
+    "quote": "product cycles or technology may change periodically, and we may decide to update our products or processes more quickly than expected."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "Our insurance coverage strategy may not be adequate to protect us from all business risks.",
+    "quote": "we do not maintain as much insurance coverage as many other companies do, and in some cases, we do not maintain any at all."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "Our debt agreements contain covenant restrictions that may limit our ability to operate our business.",
+    "quote": "our ability to respond to changes in business and economic conditions and engage in beneficial transactions, including to obtain additional financing as needed, may be restricted."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "Additional funds may not be available to us when we need or want them.",
+    "quote": "We may need or want to raise additional funds through the issuance of equity, equity-related or debt securities or through obtaining credit from financial institutions"
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "There is no guarantee that we will have sufficient cash flow from our business to pay our indebtedness or that we will not incur additional indebtedness.",
+    "quote": "Our consolidated indebtedness may increase our vulnerability to any generally adverse economic and industry conditions."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "We are exposed to fluctuations in currency exchange rates.",
+    "quote": "any strengthening of the U.S. dollar would tend to reduce our revenues as measured in U.S. dollars"
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "Our current and future warranty reserves may be insufficient to cover future warranty claims.",
+    "quote": "Warranty reserves include our management\u2019s best estimates of the projected costs to repair or to replace items under warranty"
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "We may be subject to labor disputes and work stoppages.",
+    "quote": "Any work stoppages or strikes organized by such unions could delay the manufacture and sale of our products and may harm our business and operating results."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "We may be subject to product recalls.",
+    "quote": "Recalls for our vehicles have resulted from various hardware and software-related safety or non-compliance investigations"
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "We may be subject to losses resulting from products liability, accidents, acts of God and other claims against us.",
+    "quote": "we may have no insurance coverage"
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "We may not be able to adequately protect or defend ourselves against intellectual property infringement claims, which may be time-consuming and expensive, or affect the freedom to operate our business.",
+    "quote": "We may not be able to adequately protect or defend ourselves against intellectual property infringement claims, which may be time-consuming and expensive, or affect the freedom to operate our business."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "Our competitors or other third parties may hold or obtain patents, copyrights, trademarks or other proprietary rights that could prevent, limit or interfere with our ability to make, use, develop, sell or market our products and services, which could make it more difficult for us to operate our business.",
+    "quote": "Our competitors or other third parties may hold or obtain patents, copyrights, trademarks or other proprietary rights that could prevent, limit or interfere with our ability to make, use, develop, sell or market our products and services, which could make it more difficult for us to operate our business."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "The theft or unauthorized use or publication of our trade secrets and confidential information could affect our competitive position.",
+    "quote": "The theft or unauthorized use or publication of our trade secrets and confidential information could affect our competitive position."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "Our operations could be adversely affected by events outside of our control, such as natural disasters, wars or health epidemics.",
+    "quote": "Our operations could be adversely affected by events outside of our control, such as natural disasters, wars or health epidemics."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "We may be impacted by natural disasters, wars and other geopolitical conflicts, health epidemics, weather conditions, the long-term effects of climate change, power outages or other events outside of our control.",
+    "quote": "We may be impacted by natural disasters, wars and other geopolitical conflicts, health epidemics, weather conditions, the long-term effects of climate change, power outages or other events outside of our control."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "Risks Related to Government Laws and Regulations",
+    "title": "Demand for our products and services may be impacted by the status of government and economic incentives supporting the development and adoption of such products.",
+    "quote": "Demand for our products and services may be impacted by the status of government and economic incentives supporting the development and adoption of such products."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "Risks Related to Government Laws and Regulations",
+    "title": "Government and economic incentives that support the development and adoption of electric vehicles in the U.S. and abroad may be reduced, eliminated, amended or exhausted from time to time.",
+    "quote": "Government and economic incentives that support the development and adoption of electric vehicles in the U.S. and abroad, including certain tax exemptions, tax credits and rebates, may be reduced, eliminated, amended or exhausted from time to time."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "Risks Related to Government Laws and Regulations",
+    "title": "We are subject to evolving laws and regulations that could impose substantial costs, legal prohibitions or unfavorable changes upon our operations or products.",
+    "quote": "We are subject to evolving laws and regulations that could impose substantial costs, legal prohibitions or unfavorable changes upon our operations or products."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "Risks Related to Government Laws and Regulations",
+    "title": "Our business operations are and will continue to be subject to complex environmental, occupational, health and safety laws and regulations at numerous jurisdictional levels in the U.S., China, Germany and other locations abroad.",
+    "quote": "Our business operations are and will continue to be subject to complex environmental, occupational, health and safety laws and regulations at numerous jurisdictional levels in the U.S., China, Germany and other locations abroad,"
+  },
+  {
+    "ticker": "TSLA",
+    "category": "Risks Related to Government Laws and Regulations",
+    "title": "New, or changes in, environmental and climate change laws, regulations or rules could also lead to increased costs of compliance, including remediations of any discovered issues, and changes to our operations, which may be significant.",
+    "quote": "New, or changes in, environmental and climate change laws, regulations or rules could also lead to increased costs of compliance, including remediations of any discovered issues, and changes to our operations, which may be significant,"
+  },
+  {
+    "ticker": "TSLA",
+    "category": "Risks Related to Government Laws and Regulations",
+    "title": "In particular, we offer in our customer vehicles in certain markets driver assistance features that today assist drivers with certain tedious and potentially dangerous aspects of road travel, but which currently require drivers to remain fully engaged in the driving operation.",
+    "quote": "In particular, we offer in our customer vehicles in certain markets driver assistance features that today assist drivers with certain tedious and potentially dangerous aspects of road travel, but which currently require drivers to remain fully engaged in the driving operation."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "Risks Related to Government Laws and Regulations",
+    "title": "There are a variety of international, federal and state regulations that may apply to, and may adversely inhibit, the design and capabilities, sale, marketing, registration and operation of driver assistance features, future autonomous capability on customer vehicles, as well as our Robotaxi business.",
+    "quote": "There are a variety of international, federal and state regulations that may apply to, and may adversely inhibit, the design and capabilities, sale, marketing, registration and operation of driver assistance features, future autonomous capability on customer vehicles, as well as our Robotaxi business."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "Risks Related to Government Laws and Regulations",
+    "title": "Finally, as a manufacturer, installer and service provider with respect to energy generation and storage systems, a supplier of electricity generated and stored by certain of the energy generation and storage systems we install for customers, and a provider of grid services through virtual power plant models, we are impacted by federal, state and local regulations and policies concerning the import or export of components, electricity pricing, the interconnection of electricity generation and storage equipment with the electrical grid and the sale of electricity generated by third party-owned systems.",
+    "quote": "Finally, as a manufacturer, installer and service provider with respect to energy generation and storage systems, a supplier of electricity generated and stored by certain of the energy generation and storage systems we install for customers, and a provider of grid services through virtual power plant models, we are impacted by federal, state and local regulations and policies concerning the import or export of components, electricity pricing, the interconnection of electricity generation and storage equipment with the electrical grid and the sale of electricity generated by third party-owned systems."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "Any failure by us to comply with a variety of U.S. and international privacy and consumer protection laws may harm us.",
+    "quote": "Any failure by us to comply with a variety of U.S. and international privacy and consumer protection laws may harm us."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "We may face regulatory challenges to or limitations on our ability to sell vehicles directly.",
+    "quote": "We may face regulatory challenges to or limitations on our ability to sell vehicles directly."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "The trading price of our common stock is likely to continue to be volatile.",
+    "quote": "The trading price of our common stock is likely to continue to be volatile."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "Our financial results may vary significantly from period to period due to fluctuations in our operating costs and other factors.",
+    "quote": "Our financial results may vary significantly from period to period due to fluctuations in our operating costs and other factors."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "We may fail to meet our publicly announced guidance or other expectations about our business, which could cause our stock price to decline.",
+    "quote": "We may fail to meet our publicly announced guidance or other expectations about our business, which could cause our stock price to decline."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "There is a risk that the technologies and initiatives associated with the 2025 CEO Performance Award, including the product goals, are misaligned with current or future consumer demand, resulting in our failure to invest in or pursue another opportunity that generates significant financial returns or leads to greater shareholder value.",
+    "quote": "There is a risk that the technologies and initiatives associated with the 2025 CEO Performance Award, including the product goals, are misaligned with current or future consumer demand, resulting in our failure to invest in or pursue another opportunity that generates significant financial returns or leads to greater shareholder value."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "We could be subject to liability, penalties and other restrictive sanctions and adverse consequences arising out of certain governmental investigations and proceedings.",
+    "quote": "We could be subject to liability, penalties and other restrictive sanctions and adverse consequences arising out of certain governmental investigations and proceedings."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "A major breach of our network security and systems may occur despite defensive measures, and may result in fines, penalties and damages and harm our brand, prospects and operating results.",
+    "quote": "A major breach of our network security and systems may occur despite defensive measures, and may result in fines, penalties and damages and harm our brand, prospects and operating results."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "Noncompliance could result in significant penalties or legal liability.",
+    "quote": "Noncompliance could result in significant penalties or legal liability."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "Risks and penalties could include ongoing audit requirements, data protection authority investigations, legal proceedings by international governmental entities or others resulting in mandated disclosure of sensitive data or other commercially unfavorable terms.",
+    "quote": "Risks and penalties could include ongoing audit requirements, data protection authority investigations, legal proceedings by international governmental entities or others resulting in mandated disclosure of sensitive data or other commercially unfavorable terms."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "We may be required to expend significant resources to comply with data breach requirements if, for example, third parties improperly obtain and use the personal information of our customers or we otherwise experience a data loss with respect to the personal information we process and handle.",
+    "quote": "We may be required to expend significant resources to comply with data breach requirements if, for example, third parties improperly obtain and use the personal information of our customers or we otherwise experience a data loss with respect to the personal information we process and handle."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "We are cooperating with certain government investigations as discussed in Note 13, Commitments and Contingencies , to the consolidated financial statements included elsewhere in this Annual Report on Form 10-K.",
+    "quote": "We are cooperating with certain government investigations as discussed in Note 13, Commitments and Contingencies , to the consolidated financial statements included elsewhere in this Annual Report on Form 10-K."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "In addition to the risks related to general privacy regulation, we may also be subject to specific vehicle manufacturer obligations relating to cybersecurity, data privacy and data localization requirements which place additional risks to our international operations.",
+    "quote": "In addition to the risks related to general privacy regulation, we may also be subject to specific vehicle manufacturer obligations relating to cybersecurity, data privacy and data localization requirements which place additional risks to our international operations."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "Continued regulatory limitations and other obstacles interfering with our ability to sell vehicles directly to consumers may harm our financial condition and operating results.",
+    "quote": "Continued regulatory limitations and other obstacles interfering with our ability to sell vehicles directly to consumers may harm our financial condition and operating results."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "While we intend to continue to leverage our most effective sales strategies, including sales through our website, we may not be able to sell our vehicles through our own stores in certain states in the U.S. with laws that may be interpreted to impose limitations on this direct-to-consumer sales model.",
+    "quote": "While we intend to continue to leverage our most effective sales strategies, including sales through our website, we may not be able to sell our vehicles through our own stores in certain states in the U.S. with laws that may be interpreted to impose limitations on this direct-to-consumer sales model."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "Internationally, there may be laws in jurisdictions we have not yet entered or laws we are unaware of in jurisdictions we have entered that may restrict our sales or other business practices.",
+    "quote": "Internationally, there may be laws in jurisdictions we have not yet entered or laws we are unaware of in jurisdictions we have entered that may restrict our sales or other business practices."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "Even for those jurisdictions we have analyzed, the laws in this area can be complex, difficult to interpret and may change over time.",
+    "quote": "Even for those jurisdictions we have analyzed, the laws in this area can be complex, difficult to interpret and may change over time."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "In the past, following periods of volatility in the overall market or the market price of our shares, securities class action litigation has been filed against us.",
+    "quote": "In the past, following periods of volatility in the overall market or the market price of our shares, securities class action litigation has been filed against us."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "Any judgment against us or any future shareholder litigation could result in substantial costs and a diversion of our management\u2019s attention and resources.",
+    "quote": "Any judgment against us or any future shareholder litigation could result in substantial costs and a diversion of our management\u2019s attention and resources."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "If any of this occurs, the trading price of our stock could fall substantially, either suddenly or over time.",
+    "quote": "If any of this occurs, the trading price of our stock could fall substantially, either suddenly or over time."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "Moreover, our financial results may not meet expectations of equity research analysts, ratings agencies or investors, who may be focused only on short-term quarterly financial results.",
+    "quote": "Moreover, our financial results may not meet expectations of equity research analysts, ratings agencies or investors, who may be focused only on short-term quarterly financial results."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "To our knowledge, no government agency in any such ongoing investigation has concluded that any wrongdoing occurred.",
+    "quote": "To our knowledge, no government agency in any such ongoing investigation has concluded that any wrongdoing occurred."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "However, we cannot predict the outcome or impact of any such ongoing matters, and there exists the possibility that we could be subject to liability, penalties and other restrictive sanctions and adverse consequences if the SEC, the U.S. Department of Justice or any other government agency were to pursue legal action in the future.",
+    "quote": "However, we cannot predict the outcome or impact of any such ongoing matters, and there exists the possibility that we could be subject to liability, penalties and other restrictive sanctions and adverse consequences if the SEC, the U.S. Department of Justice or any other government agency were to pursue legal action in the future."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "We expect to incur costs in responding to related requests for information and subpoenas, and if instituted, in defending against any governmental proceedings.",
+    "quote": "We expect to incur costs in responding to related requests for information and subpoenas, and if instituted, in defending against any governmental proceedings."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "We have prevailed in many of these lawsuits and such results have reinforced our continuing belief that state franchise laws were not intended to apply to a manufacturer that does not have franchise dealers anywhere in the world.",
+    "quote": "We have prevailed in many of these lawsuits and such results have reinforced our continuing belief that state franchise laws were not intended to apply to a manufacturer that does not have franchise dealers anywhere in the world."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "Misalignment of consumer demand and the 2025 CEO Performance Award could impair our ability to realize returns on investments and lead to strategic misalignment, underperformance or write-downs of related assets.",
+    "quote": "If the 2025 CEO Performance Award inadvertently directs our focus and resources toward specific technologies that are misaligned with market preferences, or such preferences evolve unfavorably, or customer demand for these innovations does not materialize as anticipated,"
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "Elon Musk's forced sale of Tesla common stock could cause our stock price to decline.",
+    "quote": "If Elon Musk were forced to sell shares of our common stock, either that he has the ability to pledge to secure certain personal loan obligations, or in satisfaction of other obligations,"
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "Anti-takeover provisions could limit the opportunity for our shareholders to receive a premium for their shares of our common stock.",
+    "quote": "Anti-takeover provisions contained in our governing documents, applicable laws and certain of our debt facilities could impair a takeover attempt."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "Elon Musk's personal financial obligations could cause him to sell Tesla common stock, leading to a decline in our stock price.",
+    "quote": "If Mr. Musk were to choose to partially secure any loans with pledges of Tesla common stock that he owns, and the price of our common stock were to decline substantially,"
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "Elon Musk's business or other ventures could require him to sell Tesla common stock, causing our stock price to decline.",
+    "quote": "Mr. Musk from time to time may commit to investing in significant business or other ventures, and as a result, be required to sell shares of our common stock in satisfaction of such commitments."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "Elon Musk's tax obligations could require him to sell Tesla common stock, causing our stock price to decline.",
+    "quote": "Mr. Musk may also sell a portion of his shares in order to satisfy tax obligations relating to the 2018 CEO Performance Award."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "Certain provisions in our governing documents and debt facilities could delay or prevent an acquisition.",
+    "quote": "Our certificate of formation and bylaws afford certain rights and powers to our board of directors that may facilitate the delay or prevention of an acquisition that it deems undesirable."
+  },
+  {
+    "ticker": "TSLA",
+    "category": "",
+    "title": "A change in control could accelerate certain of our debt facilities.",
+    "quote": "In addition, a change in control may cause the acceleration of certain of our debt facilities."
+  }
+]

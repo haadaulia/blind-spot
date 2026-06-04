@@ -1,0 +1,956 @@
+[
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Legal and Regulatory risks, including the impact of extensive supervision and regulation, as well as changes to or in the application, interpretation or enforcement of applicable law or executive branch actions, on JPMorganChase\u2019s business and operations.",
+    "quote": "The following discussion sets forth the material risk factors that could affect JPMorganChase\u2019s financial condition and operations."
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Differences in regulatory implementation in different jurisdictions or with respect to certain competitors could negatively impact JPMorganChase\u2019s business.",
+    "quote": "A highly-regulated financial services firm such as JPMorganChase can be vulnerable to competition from firms that are less regulated or unregulated."
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Governmental policies that discourage or penalize business relationships with certain industries, or require specific business practices, could negatively affect JPMorganChase's businesses.",
+    "quote": "the ways in which governmental policies that discourage or penalize business relationships with certain industries, or require specific business practices, could negatively affect JPMorganChase's businesses"
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Penalties and other repercussions that JPMorganChase could face when resolving litigation or investigations by governmental authorities.",
+    "quote": "the penalties and other repercussions that JPMorganChase could face when resolving litigation or investigations by governmental authorities"
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Less predictable legal and regulatory frameworks in certain jurisdictions could negatively impact JPMorganChase\u2019s operations and financial results.",
+    "quote": "the ways in which less predictable legal and regulatory frameworks in certain jurisdictions could negatively impact JPMorganChase\u2019s operations and financial results"
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Losses that security holders and other unsecured creditors will absorb if JPMorganChase were to enter into a resolution.",
+    "quote": "the losses that security holders and other unsecured creditors will absorb if JPMorganChase were to enter into a resolution"
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Potential negative effects on JPMorganChase\u2019s businesses due to economic uncertainty resulting from political developments.",
+    "quote": "Political risks, including the potential negative effects on JPMorganChase\u2019s businesses due to economic uncertainty resulting from political developments."
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Unfavorable economic and market events and conditions, political developments, changes in interest rates and credit spreads, and market fluctuations could have on JPMorganChase\u2019s businesses, investments and market-making positions.",
+    "quote": "Market risks, including the effects that unfavorable economic and market events and conditions, political developments, changes in interest rates and credit spreads, and market fluctuations could have on JPMorganChase\u2019s businesses, investments and market-making positions"
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Adverse changes in the financial condition of clients, customers, counterparties, central counterparties and other market participants.",
+    "quote": "Credit risks, including the effects from adverse changes in the financial condition of clients, customers, counterparties, central counterparties and other market participants"
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Losses due to declines in the value of collateral.",
+    "quote": "the potential for losses due to declines in the value of collateral"
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Concentrations of credit risk with respect to clients, customers, counterparties and other market participants.",
+    "quote": "potential negative impacts from concentrations of credit risk with respect to clients, customers, counterparties and other market participants"
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "JPMorganChase\u2019s ability to operate could be impaired by constrained liquidity.",
+    "quote": "the risk that JPMorganChase\u2019s ability to operate could be impaired by constrained liquidity"
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Dependence of JPMorgan Chase & Co. on its subsidiaries for funding.",
+    "quote": "the dependence of JPMorgan Chase & Co. on its subsidiaries for funding"
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Downgrades of JPMorganChase\u2019s credit ratings could have on its liquidity and cost of funding.",
+    "quote": "the potential adverse effects that any downgrades of JPMorganChase\u2019s credit ratings could have on its liquidity and cost of funding"
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "JPMorganChase\u2019s ability to distribute capital to shareholders or to support its business activities could be limited if it does not satisfy applicable regulatory capital requirements.",
+    "quote": "Capital risks, including the risk that JPMorganChase\u2019s ability to distribute capital to shareholders or to support its business activities could be limited if it does not satisfy applicable regulatory capital requirements"
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Dependence on its operational systems and its employees, as well as the systems and employees of acquired businesses and external parties.",
+    "quote": "Operational risks, including risks associated with JPMorganChase\u2019s dependence on its operational systems and its employees, as well as the systems and employees of acquired businesses and external parties"
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Successful cyber attack affecting JPMorganChase or by other extraordinary events.",
+    "quote": "the harm that could be caused by a successful cyber attack affecting JPMorganChase or by other extraordinary events"
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Failing to identify and address operational risks associated with the introduction of or changes to products, services and delivery platforms or technologies.",
+    "quote": "the adverse effects of failing to identify and address operational risks associated with the introduction of or changes to products, services and delivery platforms or technologies"
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Risks related to data management processes.",
+    "quote": "risks related to data management processes"
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Safeguarding personal information.",
+    "quote": "risks related to safeguarding personal information"
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Failing to comply with applicable standards for the oversight of vendors and other service providers.",
+    "quote": "potential adverse effects of failing to comply with applicable standards for the oversight of vendors and other service providers"
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "JPMorganChase\u2019s risk management framework and control environment, its models and estimations and associated judgments used in its stress testing and financial statements, and controls over disclosure and financial reporting.",
+    "quote": "risks associated with JPMorganChase\u2019s risk management framework and control environment, its models and estimations and associated judgments used in its stress testing and financial statements, and controls over disclosure and financial reporting"
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Damage to JPMorganChase\u2019s competitive standing that could result from ineffective business strategies.",
+    "quote": "the damage to JPMorganChase\u2019s competitive standing that could result from ineffective business strategies"
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Significant competition that JPMorganChase faces.",
+    "quote": "risks associated with the significant competition that JPMorganChase faces"
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Potential adverse impacts of climate change on JPMorganChase\u2019s business and operations and those of its clients and customers.",
+    "quote": "the potential adverse impacts of climate change on JPMorganChase\u2019s business and operations and those of its clients and customers"
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Negative impact that could result from misconduct of JPMorganChase\u2019s employees.",
+    "quote": "the negative impact that could result from misconduct of JPMorganChase\u2019s employees"
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Potential negative commercial impacts that can arise from JPMorganChase\u2019s decisions related to clients and business activities.",
+    "quote": "the potential negative commercial impacts that can arise from JPMorganChase\u2019s decisions related to clients and business activities"
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Failure to effectively manage conflicts of interest or to satisfy fiduciary obligations, or other factors that could damage JPMorganChase\u2019s reputation.",
+    "quote": "the failure to effectively manage conflicts of interest or to satisfy fiduciary obligations, or other factors that could damage JPMorganChase\u2019s reputation"
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Potential impacts on JPMorganChase\u2019s businesses from an outbreak or escalation of hostilities between countries or within a country or region.",
+    "quote": "potential impacts on JPMorganChase\u2019s businesses from an outbreak or escalation of hostilities between countries or within a country or region"
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Potential adverse effects of local economic, political, regulatory and social factors on JPMorganChase\u2019s business in certain countries in which it operates.",
+    "quote": "the potential adverse effects of local economic, political, regulatory and social factors on JPMorganChase\u2019s business in certain countries in which it operates"
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Criticality of attracting and retaining qualified employees.",
+    "quote": "People risks, including the criticality of attracting and retaining qualified employees"
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "JPMorganChase faces significant legal risks from civil and governmental proceedings, including litigation, investigations and enforcement actions.",
+    "quote": "JPMorganChase faces significant legal risks from civil and governmental proceedings, including litigation, investigations and enforcement actions."
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "JPMorganChase is named as a defendant or is otherwise involved in many civil and governmental legal proceedings, including class actions, derivative actions and other litigation or disputes with third parties, as well as investigations and enforcement actions by U.S. and non-U.S. governmental authorities, including criminal proceedings.",
+    "quote": "JPMorganChase is named as a defendant or is otherwise involved in many civil and governmental legal proceedings, including class actions, derivative actions and other litigation or disputes with third parties, as well as investigations and enforcement actions by U.S. and non-U.S. governmental authorities, including criminal proceedings."
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Actions currently pending against JPMorganChase could result in judgments, settlements or penalties adverse to JPMorganChase, and any such resolution of legal proceedings could materially and adversely affect JPMorganChase\u2019s business, financial condition or results of operations, or cause serious reputational harm.",
+    "quote": "Actions currently pending against JPMorganChase could result in judgments, settlements or penalties adverse to JPMorganChase, and any such resolution of legal proceedings could materially and adversely affect JPMorganChase\u2019s business, financial condition or results of operations, or cause serious reputational harm."
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Resolving an investigation by a governmental authority could subject JPMorganChase to significant penalties and other repercussions.",
+    "quote": "Resolving an investigation by a governmental authority could subject JPMorganChase to significant penalties and other repercussions."
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Governmental authorities conduct both routine and targeted examinations of JPMorganChase and its subsidiaries, and JPMorganChase\u2019s businesses and operations are subject to heightened regulatory oversight.",
+    "quote": "Governmental authorities conduct both routine and targeted examinations of JPMorganChase and its subsidiaries, and JPMorganChase\u2019s businesses and operations are subject to heightened regulatory oversight."
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "JPMorganChase has in the past incurred significant penalties and experienced collateral consequences and other repercussions in connection with resolving investigations and enforcement actions by governmental authorities, and it could face similar investigations, actions and resolutions in the future.",
+    "quote": "JPMorganChase has in the past incurred significant penalties and experienced collateral consequences and other repercussions in connection with resolving investigations and enforcement actions by governmental authorities, and it could face similar investigations, actions and resolutions in the future."
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "In connection with resolving specific investigations or enforcement actions, certain governmental authorities have required JPMorganChase and other financial institutions to admit wrongdoing with respect to the activities that gave rise to the resolution.",
+    "quote": "In connection with resolving specific investigations or enforcement actions, certain governmental authorities have required JPMorganChase and other financial institutions to admit wrongdoing with respect to the activities that gave rise to the resolution."
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "These types of admissions could lead to negative consequences such as: disqualification from doing business with certain clients or customers, or in specific jurisdictions; greater exposure in litigation, and; reputational harm.",
+    "quote": "These types of admissions could lead to negative consequences such as: disqualification from doing business with certain clients or customers, or in specific jurisdictions; greater exposure in litigation, and; reputational harm."
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Governmental officials globally have increasingly brought criminal actions against financial institutions and required those institutions to plead guilty to criminal offenses in connection with resolving investigations or enforcement actions by governmental authorities.",
+    "quote": "Governmental officials globally have increasingly brought criminal actions against financial institutions and required those institutions to plead guilty to criminal offenses in connection with resolving investigations or enforcement actions by governmental authorities."
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "These resolutions could have significant collateral consequences for the subject financial institution, including: loss of clients, customers and business; restrictions on offering certain products or services, and; loss of permission to operate certain businesses, either temporarily or permanently.",
+    "quote": "These resolutions could have significant collateral consequences for the subject financial institution, including: loss of clients, customers and business; restrictions on offering certain products or services, and; loss of permission to operate certain businesses, either temporarily or permanently."
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "JPMorganChase expects that the following trends will continue: it will be subject to heightened regulatory scrutiny and pervasive investigations and enforcement actions by governmental authorities, as well as criticism or litigation from clients or customers who claim that they have been harmed by actions taken by JPMorganChase in order to comply with applicable law.",
+    "quote": "JPMorganChase expects that the following trends will continue: it will be subject to heightened regulatory scrutiny and pervasive investigations and enforcement actions by governmental authorities, as well as criticism or litigation from clients or customers who claim that they have been harmed by actions taken by JPMorganChase in order to comply with applicable law."
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Governmental authorities will forgo opportunities to resolve investigations with informal supervisory actions, and will pursue formal and punitive enforcement actions with respect to actual or deemed violations of law.",
+    "quote": "Governmental authorities will forgo opportunities to resolve investigations with informal supervisory actions, and will pursue formal and punitive enforcement actions with respect to actual or deemed violations of law."
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Resolutions of investigations and enforcement actions will result in the imposition of significant penalties, and governmental authorities will be more likely to bring formal enforcement actions against JPMorganChase if it has previously been subject to other investigations or enforcement actions by governmental authorities.",
+    "quote": "Resolutions of investigations and enforcement actions will result in the imposition of significant penalties, and governmental authorities will be more likely to bring formal enforcement actions against JPMorganChase if it has previously been subject to other investigations or enforcement actions by governmental authorities."
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "When resolving an investigation or enforcement action by a governmental authority, the subject financial institution typically must satisfy new or enhanced regulatory requirements or restrictions.",
+    "quote": "When resolving an investigation or enforcement action by a governmental authority, the subject financial institution typically must satisfy new or enhanced regulatory requirements or restrictions."
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "If JPMorganChase fails to meet the requirements of any such resolution, or to maintain risk and control processes that meet the heightened expectations of its regulators, it could be required to, among other things: enter into further resolutions; incur additional penalties or judgments, or; accept material restrictions on, or changes in the management of, its businesses.",
+    "quote": "If JPMorganChase fails to meet the requirements of any such resolution, or to maintain risk and control processes that meet the heightened expectations of its regulators, it could be required to, among other things: enter into further resolutions; incur additional penalties or judgments, or; accept material restrictions on, or changes in the management of, its businesses."
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "In these circumstances, JPMorganChase could also become subject to prosecution or civil litigation with respect to the matters that gave rise to an investigation or enforcement action.",
+    "quote": "In these circumstances, JPMorganChase could also become subject to prosecution or civil litigation with respect to the matters that gave rise to an investigation or enforcement action."
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "In addition, JPMorganChase could incur higher costs when resolving investigations and enforcement actions involving newly-acquired businesses, companies in which JPMorganChase has made principal investments, parties to joint ventures with JPMorganChase, and vendors with which JPMorganChase does business.",
+    "quote": "In addition, JPMorganChase could incur higher costs when resolving investigations and enforcement actions involving newly-acquired businesses, companies in which JPMorganChase has made principal investments, parties to joint ventures with JPMorganChase, and vendors with which JPMorganChase does business."
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "As a participant in the financial services industry, it is likely that JPMorganChase will continue to experience a high level of litigation and investigations by governmental authorities related to its businesses and operations.",
+    "quote": "As a participant in the financial services industry, it is likely that JPMorganChase will continue to experience a high level of litigation and investigations by governmental authorities related to its businesses and operations."
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "In addition, JPMorganChase could become subject to a significant investigation by governmental authorities and be unable to disclose specific information concerning that investigation to the public if such a disclosure would violate JPMorganChase\u2019s obligations under applicable law to maintain confidentiality, even if the resolution of that investigation could have a material adverse effect on JPMorganChase\u2019s business, operations, results or financial condition.",
+    "quote": "In addition, JPMorganChase could become subject to a significant investigation by governmental authorities and be unable to disclose specific information concerning that investigation to the public if such a disclosure would violate JPMorganChase\u2019s obligations under applicable law to maintain confidentiality, even if the resolution of that investigation could have a material adverse effect on JPMorganChase\u2019s business, operations, results or financial condition."
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Losses to unsecured creditors could be greater than they might have been under JPMorganChase\u2019s preferred strategy.",
+    "quote": "If the Parent Company were to approach, or enter into, a resolution, none of the Parent Company, the Federal Reserve or the FDIC is obligated to follow JPMorganChase\u2019s preferred resolution strategy, and losses to unsecured creditors of the Parent Company, including holders of eligible LTD, and to holders of equity securities of the Parent Company, under whatever strategy is ultimately followed, could be"
+  },
+  {
+    "ticker": "JPM",
+    "category": "Political",
+    "title": "Economic uncertainty resulting from political and geopolitical developments could negatively affect JPMorganChase\u2019s businesses.",
+    "quote": "JPMorganChase\u2019s businesses could be negatively affected by economic uncertainty resulting from political and geopolitical developments."
+  },
+  {
+    "ticker": "JPM",
+    "category": "Political",
+    "title": "Political developments could cause uncertainty in the economic environment and market conditions.",
+    "quote": "Political developments in the U.S. and other countries could cause uncertainty in the economic environment and market conditions in which JPMorganChase operates."
+  },
+  {
+    "ticker": "JPM",
+    "category": "Political",
+    "title": "Governmental policies or actions could significantly affect U.S. and global economic growth.",
+    "quote": "Certain governmental policies or actions could significantly affect U.S. and global economic growth and cause higher volatility in the financial markets,"
+  },
+  {
+    "ticker": "JPM",
+    "category": "Political",
+    "title": "Heightened geopolitical tensions could increase the risk of targeted cyber attacks.",
+    "quote": "These types of political developments, as well as heightened geopolitical tensions, could: \u2022 increase the risk of targeted cyber attacks"
+  },
+  {
+    "ticker": "JPM",
+    "category": "Market",
+    "title": "Adverse economic and market events and conditions could negatively affect JPMorganChase\u2019s results of operations and investment and market-making positions.",
+    "quote": "Adverse economic and market events and conditions could negatively affect JPMorganChase\u2019s results of operations and investment and market-making positions."
+  },
+  {
+    "ticker": "JPM",
+    "category": "Market",
+    "title": "Adverse changes in the U.S. and global economies could negatively affect JPMorganChase\u2019s results of operations.",
+    "quote": "JPMorganChase\u2019s results of operations could be negatively affected by the occurrence or persistence of adverse changes in any of the following: \u2022 the U.S. and global economies"
+  },
+  {
+    "ticker": "JPM",
+    "category": "Market",
+    "title": "Unanticipated market events and conditions could cause losses in JPMorganChase\u2019s investment portfolio and market-making businesses.",
+    "quote": "In addition, JPMorganChase\u2019s investment portfolio and market-making businesses could suffer losses due to unanticipated market events and conditions,"
+  },
+  {
+    "ticker": "JPM",
+    "category": "Consumer",
+    "title": "Adverse economic conditions could reduce personal and household income, degrading consumer credit performance.",
+    "quote": "High unemployment levels could reduce personal and household income, which could degrade consumer credit performance if consumers struggle to service their debts."
+  },
+  {
+    "ticker": "JPM",
+    "category": "Consumer",
+    "title": "Adverse economic conditions could lead to an increase in delinquencies and higher net charge-offs.",
+    "quote": "Adverse economic conditions could also lead to an increase in delinquencies, an increase in the allowance for credit losses or higher net charge-offs,"
+  },
+  {
+    "ticker": "JPM",
+    "category": "Consumer",
+    "title": "Governmental policies and actions could reduce consumer disposable income and decrease JPMorganChase's earnings from its consumer businesses.",
+    "quote": "Furthermore, governmental policies and actions, including those relating to pricing of products, taxation, medical insurance, education, immigration, and housing, or those that impact employment status, could reduce consumer disposable income and decrease JPMorganChase's earnings from its consumer businesses."
+  },
+  {
+    "ticker": "JPM",
+    "category": "Wholesale",
+    "title": "Unfavorable market and economic conditions could adversely affect JPMorganChase\u2019s wholesale businesses.",
+    "quote": "Unfavorable market and economic conditions could adversely affect JPMorganChase\u2019s wholesale businesses."
+  },
+  {
+    "ticker": "JPM",
+    "category": "Wholesale",
+    "title": "Market and economic factors could reduce fee revenue due to lower transaction volumes.",
+    "quote": "Furthermore, any significant and sustained deterioration in market conditions could reduce fee revenue due to lower transaction volumes,"
+  },
+  {
+    "ticker": "JPM",
+    "category": "Wholesale",
+    "title": "The profitability of JPMorganChase\u2019s capital markets activities could be impacted by the need to dispose of portions of credit commitments at a loss.",
+    "quote": "Additionally, the profitability of JPMorganChase\u2019s capital markets activities could be impacted if it needs to dispose of portions of credit commitments at a loss"
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "An adverse change in market conditions could have a material adverse effect on clients of JPMorganChase.",
+    "quote": "An adverse change in market conditions in particular segments of the economy, or sustained changes in consumer behavior that affect specific economic sectors, could have a material adverse effect on clients of JPMorganChase whose operations or financial condition are significantly impacted by the health or stability of those segments or economic sectors,"
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "An economic downturn or sustained changes in consumer behavior could negatively impact JPMorganChase's wholesale clients.",
+    "quote": "An economic downturn or sustained changes in consumer behavior that result in shifts in consumer and business spending could also have a negative impact on certain of JPMorganChase\u2019s wholesale clients,"
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Changes in interest rates and credit spreads could adversely affect JPMorganChase's earnings or its liquidity and capital levels.",
+    "quote": "Changes in interest rates and credit spreads could adversely affect JPMorganChase\u2019s earnings or its liquidity and capital levels."
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Higher interest rates could result in significant losses for JPMorganChase.",
+    "quote": "higher interest rates could also result in: losses on underwriting exposures or increases in client-specific downgrades"
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Market fluctuations and significant changes in the valuation of financial instruments could negatively affect JPMorganChase's results.",
+    "quote": "JPMorganChase\u2019s results could be materially affected by market fluctuations and significant changes in the valuation of financial instruments."
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "JPMorganChase could be negatively affected by adverse changes in the financial condition of clients, counterparties, CCPs and other market participants.",
+    "quote": "JPMorganChase could be negatively affected by adverse changes in the financial condition of clients, counterparties, CCPs and other market participants."
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Transactions with governmental entities can expose JPMorganChase to enhanced sovereign, credit, operational, legal and reputation risks.",
+    "quote": "Transactions with governmental entities can expose JPMorganChase to enhanced sovereign, credit, operational, legal and reputation risks."
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Disputes could arise with counterparties to derivatives contracts concerning the terms, the settlement procedures or the value of underlying collateral.",
+    "quote": "Disputes could arise with counterparties to derivatives contracts concerning the terms, the settlement procedures or the value of underlying collateral."
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "The financial or operational failure of a significant market participant could cause substantial and cascading disruption within the financial markets.",
+    "quote": "The financial or operational failure of a significant market participant, such as a major financial institution or a CCP, or concerns about the creditworthiness or operational sustainability of one or more market participants, could cause substantial and cascading disruption within the financial markets,"
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "JPMorganChase could suffer losses if the value of collateral declines.",
+    "quote": "JPMorganChase could suffer losses if the value of collateral declines."
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "JPMorganChase could incur significant losses arising from concentrations of credit and market risk.",
+    "quote": "JPMorganChase could incur significant losses arising from concentrations of credit and market risk."
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Significant deterioration in credit quality of counterparties could lead to concerns about creditworthiness of other parties in similar industries.",
+    "quote": "a significant deterioration in the credit quality of a counterparty, borrower or other obligor could lead to concerns about the creditworthiness of other parties in similar, related or dependent industries."
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Challenging economic conditions could lead to concerns about credit quality of counterparties in related industries.",
+    "quote": "challenging economic conditions that affect a particular industry or geographic area could lead to concerns about the credit quality of counterparties, borrowers or other obligors not only in that industry or geography but also in related or dependent industries,"
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Excessive expansion of consumer credit by competitors could harm JPMorganChase's consumer businesses.",
+    "quote": "JPMorganChase\u2019s consumer businesses could also be harmed by an excessive expansion of consumer credit by competitors."
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Widespread defaults on consumer debt could lead to recessionary conditions in the U.S. economy.",
+    "quote": "More broadly, widespread defaults on consumer debt could lead to recessionary conditions in the U.S. economy,"
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Significant expansion of private credit could worsen losses among non-bank lenders and their borrowers.",
+    "quote": "the interconnectivity across credit markets increases the risk that the significant expansion of private credit could worsen losses among non-bank lenders and their borrowers,"
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Market dislocation could increase market and credit risks associated with positions and risk-weighted-assets.",
+    "quote": "If JPMorganChase is unable to reduce positions effectively during a market dislocation, this could increase both the market and credit risks associated with those positions and the level of risk-weighted-assets (\u201cRWA\u201d) that JPMorganChase holds on its balance sheet."
+  },
+  {
+    "ticker": "JPM",
+    "category": "Liquidity",
+    "title": "JPMorganChase's ability to operate its businesses could be impaired if its liquidity is constrained.",
+    "quote": "JPMorganChase\u2019s ability to operate its businesses could be impaired if its liquidity is constrained."
+  },
+  {
+    "ticker": "JPM",
+    "category": "Liquidity",
+    "title": "JPMorganChase's liquidity could be impacted by market-wide illiquidity or disruption.",
+    "quote": "market-wide illiquidity or disruption"
+  },
+  {
+    "ticker": "JPM",
+    "category": "Liquidity",
+    "title": "JPMorganChase's liquidity could be impacted by actions by governmental authorities.",
+    "quote": "actions by governmental authorities, including changes in regulatory requirements relating to liquidity or capital"
+  },
+  {
+    "ticker": "JPM",
+    "category": "Liquidity",
+    "title": "JPMorganChase's liquidity could be impacted by actions taken by the Federal Reserve.",
+    "quote": "actions taken by the Federal Reserve to reduce its balance sheet, which could reduce deposits held by JPMorganChase and other financial institutions"
+  },
+  {
+    "ticker": "JPM",
+    "category": "Liquidity",
+    "title": "JPMorganChase's liquidity could be impacted by inability to sell assets or to sell at favorable times or prices.",
+    "quote": "inability to sell assets, or to sell at favorable times or prices"
+  },
+  {
+    "ticker": "JPM",
+    "category": "Liquidity",
+    "title": "JPMorganChase's liquidity could be impacted by default by a CCP or other significant market participant.",
+    "quote": "default by a CCP or other significant market participant"
+  },
+  {
+    "ticker": "JPM",
+    "category": "Liquidity",
+    "title": "JPMorganChase's liquidity could be impacted by unanticipated outflows of cash or collateral.",
+    "quote": "unanticipated outflows of cash or collateral"
+  },
+  {
+    "ticker": "JPM",
+    "category": "Liquidity",
+    "title": "JPMorganChase's liquidity could be impacted by unexpected loss of deposits.",
+    "quote": "unexpected loss of deposits, including due to deposit pricing or migration to other investment products"
+  },
+  {
+    "ticker": "JPM",
+    "category": "Liquidity",
+    "title": "JPMorganChase's liquidity could be impacted by higher than anticipated draws on lending-related commitments.",
+    "quote": "higher than anticipated draws on lending-related commitments,"
+  },
+  {
+    "ticker": "JPM",
+    "category": "Liquidity",
+    "title": "JPMorganChase's liquidity could be impacted by lack of market or customer confidence.",
+    "quote": "lack of market or customer confidence in JPMorganChase or financial institutions in general."
+  },
+  {
+    "ticker": "JPM",
+    "category": "Liquidity",
+    "title": "JPMorganChase's funding costs could increase and its access to traditional sources of liquidity could be limited during periods of market stress.",
+    "quote": "JPMorganChase\u2019s funding costs could increase and its access to traditional sources of liquidity could be limited during periods of market stress,"
+  },
+  {
+    "ticker": "JPM",
+    "category": "Liquidity",
+    "title": "JPMorganChase may need to raise funding from alternative sources.",
+    "quote": "JPMorganChase may need to raise funding from alternative sources if its access to stable and lower-cost funding, such as deposits and borrowings from Federal Home Loan Banks, is reduced."
+  },
+  {
+    "ticker": "JPM",
+    "category": "Liquidity",
+    "title": "Alternative funding could be more expensive or limited.",
+    "quote": "Alternative funding could be more expensive or limited."
+  },
+  {
+    "ticker": "JPM",
+    "category": "Liquidity",
+    "title": "JPMorganChase's funding costs could be negatively affected by actions to satisfy regulatory requirements.",
+    "quote": "JPMorganChase\u2019s funding costs could also be negatively affected by actions that it may take in order to satisfy regulatory requirements,"
+  },
+  {
+    "ticker": "JPM",
+    "category": "Liquidity",
+    "title": "JPMorganChase's failure to effectively manage its liquidity could constrain its ability to fund or invest in its businesses and subsidiaries.",
+    "quote": "More generally, if JPMorganChase fails to effectively manage its liquidity, this could constrain its ability to fund or invest in its businesses and subsidiaries,"
+  },
+  {
+    "ticker": "JPM",
+    "category": "Liquidity",
+    "title": "JPMorganChase is a holding company and depends on its subsidiaries for funding.",
+    "quote": "JPMorgan Chase & Co. is a holding company and depends on its subsidiaries for funding to make payments on its outstanding securities."
+  },
+  {
+    "ticker": "JPM",
+    "category": "Liquidity",
+    "title": "The Parent Company's ability to make payments to the Parent Company is limited.",
+    "quote": "The ability of JPMorgan Chase Bank, N.A. and the IHC to make payments to the Parent Company is limited."
+  },
+  {
+    "ticker": "JPM",
+    "category": "Liquidity",
+    "title": "The Parent Company is generally dependent on receiving dividends from JPMorgan Chase Bank, N.A. and dividends and borrowings from the IHC.",
+    "quote": "As a result of these arrangements, the Parent Company is generally dependent on receiving dividends from JPMorgan Chase Bank, N.A. and dividends and borrowings from the IHC in order to:"
+  },
+  {
+    "ticker": "JPM",
+    "category": "Liquidity",
+    "title": "A downgrade in JPMorganChase's credit ratings could curtail its business activities and profitability.",
+    "quote": "A downgrade in JPMorganChase\u2019s credit ratings could curtail its business activities and its profitability,"
+  },
+  {
+    "ticker": "JPM",
+    "category": "Liquidity",
+    "title": "A downgrade in JPMorganChase's credit ratings could reduce its access to capital markets.",
+    "quote": "reducing its access to capital markets"
+  },
+  {
+    "ticker": "JPM",
+    "category": "Liquidity",
+    "title": "A downgrade in JPMorganChase's credit ratings could materially increase its cost of issuing and servicing securities.",
+    "quote": "materially increasing its cost of issuing and servicing securities"
+  },
+  {
+    "ticker": "JPM",
+    "category": "Liquidity",
+    "title": "A downgrade in JPMorganChase's credit ratings could trigger additional collateral or funding requirements.",
+    "quote": "triggering additional collateral or funding requirements,"
+  },
+  {
+    "ticker": "JPM",
+    "category": "Liquidity",
+    "title": "A downgrade in JPMorganChase's credit ratings could decrease the number of investors and counterparties willing or permitted to do business with or lend to JPMorganChase.",
+    "quote": "decreasing the number of investors and counterparties that are willing or permitted to do business with or lend to JPMorganChase."
+  },
+  {
+    "ticker": "JPM",
+    "category": "Capital",
+    "title": "JPMorganChase's ability to distribute capital to shareholders could be limited if it does not satisfy applicable regulatory capital requirements.",
+    "quote": "JPMorganChase\u2019s ability to distribute capital to shareholders, and to support its business activities could be limited if it does not satisfy applicable regulatory capital requirements."
+  },
+  {
+    "ticker": "JPM",
+    "category": "Capital",
+    "title": "JPMorganChase is subject to various regulatory capital requirements.",
+    "quote": "JPMorganChase is subject to various regulatory capital requirements,"
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Operational failures or disruptions could have negative effects for customers.",
+    "quote": "These incidents have resulted in various negative effects for customers, including:"
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Operational risk could be increased by JPMorganChase\u2019s interconnectedness with clients, customers and other external parties.",
+    "quote": "JPMorganChase\u2019s interconnectedness with clients, customers and other external parties could be a source of significant operational risk."
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "A successful cyber attack could cause significant harm to JPMorganChase and its clients and customers.",
+    "quote": "A successful cyber attack could cause significant harm to JPMorganChase and its clients and customers."
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "JPMorganChase experiences numerous cyber attacks on its computer systems, software, networks and other technology assets.",
+    "quote": "JPMorganChase experiences numerous cyber attacks on its computer systems, software, networks and other technology assets."
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Cybersecurity risks could cause serious negative consequences, including significant disruption of or loss of access to operational systems and those of its clients, customers and counterparties.",
+    "quote": "Any of the above cybersecurity risks to which JPMorganChase may be exposed could also affect JPMorganChase\u2019s vendors or other third parties with which it does business or is interconnected,"
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Cybersecurity risks could cause serious negative consequences, including misappropriation of confidential information of JPMorganChase or that of its clients, customers, counterparties, employees, regulators or other parties.",
+    "quote": "misappropriation of confidential information of JPMorganChase or that of its clients, customers, counterparties, employees, regulators or other parties"
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Cybersecurity risks could cause serious negative consequences, including disruption of or damage to JPMorganChase\u2019s systems and those of its clients, customers and counterparties.",
+    "quote": "disruption of or damage to JPMorganChase\u2019s systems and those of its clients, customers and counterparties"
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Cybersecurity risks could cause serious negative consequences, including the inability, or extended delays in the ability, to fully recover and restore affected data, or the inability to prevent systems from processing fraudulent transactions.",
+    "quote": "the inability, or extended delays in the ability, to fully recover and restore affected data, or the inability to prevent systems from processing fraudulent transactions"
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Cybersecurity risks could cause serious negative consequences, including demands that JPMorganChase pay a ransom to a malicious actor that has perpetrated a cybersecurity breach.",
+    "quote": "demands that JPMorganChase pay a ransom to a malicious actor that has perpetrated a cybersecurity breach"
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Cybersecurity risks could cause serious negative consequences, including unintended violations by JPMorganChase of applicable privacy and other laws.",
+    "quote": "unintended violations by JPMorganChase of applicable privacy and other laws"
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Cybersecurity risks could cause serious negative consequences, including financial loss to JPMorganChase outside of cyber insurance policy coverage, or losses to its clients, customers, counterparties or employees.",
+    "quote": "financial loss to JPMorganChase outside of cyber insurance policy coverage, or losses to its clients, customers, counterparties or employees"
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Cybersecurity risks could cause serious negative consequences, including loss of confidence in JPMorganChase\u2019s cybersecurity and business resiliency measures.",
+    "quote": "loss of confidence in JPMorganChase\u2019s cybersecurity and business resiliency measures"
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Cybersecurity risks could cause serious negative consequences, including significant exposure to litigation, investigations by governmental authorities and penalties.",
+    "quote": "significant exposure to litigation, investigations by governmental authorities and penalties"
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Cybersecurity risks could cause serious negative consequences, including reputational harm.",
+    "quote": "reputational harm"
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Cybersecurity risks could cause serious negative consequences, including the extent of a particular cyber attack, the methods used by threat actors, and the steps that JPMorganChase may need to take to investigate the attack may not be immediately clear.",
+    "quote": "The extent of a particular cyber attack, the methods used by threat actors, and the steps that JPMorganChase may need to take to investigate the attack may not be immediately clear,"
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Cybersecurity risks could cause serious negative consequences, including it could take a significant amount of time before such an investigation can be completed.",
+    "quote": "it could take a significant amount of time before such an investigation can be completed"
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Cybersecurity risks could cause serious negative consequences, including JPMorganChase may not know the full extent of the harm caused by the cyber attack, and that damage could continue to spread.",
+    "quote": "JPMorganChase may not know the full extent of the harm caused by the cyber attack, and that damage could continue to spread"
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Cybersecurity risks could cause serious negative consequences, including it may not be clear how best to contain and remediate the harm caused by the cyber attack.",
+    "quote": "it may not be clear how best to contain and remediate the harm caused by the cyber attack"
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Cybersecurity risks could cause serious negative consequences, including certain errors or actions could be repeated or compounded before they are discovered and remediated.",
+    "quote": "certain errors or actions could be repeated or compounded before they are discovered and remediated"
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Cybersecurity risks could cause serious negative consequences, including any or all of these factors could further increase the costs and consequences of a cyber attack.",
+    "quote": "any or all of these factors could further increase the costs and consequences of a cyber attack"
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Operational risks could be adversely affected if JPMorganChase fails to identify and address operational risks associated with the introduction of or changes to products, services, delivery platforms or technologies.",
+    "quote": "JPMorganChase\u2019s businesses could be adversely affected if it fails to identify and address operational risks associated with the introduction of or changes to products, services, delivery platforms or technologies."
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Operational risks could be adversely affected if JPMorganChase fails to identify or recognize the full extent of operational risks that could arise from the introduction of a new product or service, including platforms for the delivery or distribution of products or services.",
+    "quote": "JPMorganChase may not always identify or recognize the full extent of operational risks that could arise from:"
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Operational risks could be adversely affected if JPMorganChase fails to identify the operational risks associated with these types of changes, or to implement adequate controls to mitigate those risks.",
+    "quote": "Any significant failure by JPMorganChase to identify the operational risks associated with these types of changes, or to implement adequate controls to mitigate those risks,"
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Any failure to maintain adequate data management processes could adversely affect JPMorganChase\u2019s ability to effectively manage its businesses, comply with applicable law or make informed business decisions.",
+    "quote": "Any failure to maintain adequate data management processes could adversely affect JPMorganChase\u2019s ability to effectively manage its businesses, comply with applicable law or make informed business decisions."
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "JPMorganChase could incur losses arising from any significant inadequacy or lapse in its risk management framework and control environment.",
+    "quote": "JPMorganChase could incur losses arising from any significant inadequacy or lapse in its risk management framework and control environment."
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "JPMorganChase could recognize unexpected losses, its capital levels could be reduced and it could face greater regulatory scrutiny if its models, estimations or judgments, including those used in its financial statements, are inadequate or incorrect.",
+    "quote": "JPMorganChase could recognize unexpected losses, its capital levels could be reduced and it could face greater regulatory scrutiny if its models, estimations or judgments, including those used in its financial statements, are inadequate or incorrect."
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "A significant inadequacy in disclosure or financial reporting controls could negatively affect JPMorganChase\u2019s business, operations and reputation.",
+    "quote": "A significant inadequacy in disclosure or financial reporting controls could negatively affect JPMorganChase\u2019s business, operations and reputation."
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "JPMorganChase\u2019s results or competitive standing could suffer if its management fails to develop and execute effective business strategies and to anticipate changes affecting those strategies.",
+    "quote": "JPMorganChase\u2019s results or competitive standing could suffer if its management fails to develop and execute effective business strategies and to anticipate changes affecting those strategies."
+  },
+  {
+    "ticker": "JPM",
+    "category": "Enhanced regulatory and other standards",
+    "title": "Enhanced regulatory and other standards for the oversight of JPMorganChase\u2019s vendors and other service providers could result in higher costs and other potential exposures.",
+    "quote": "Enhanced regulatory and other standards for the oversight of JPMorganChase\u2019s vendors and other service providers could result in higher costs and other potential exposures."
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "JPMorganChase could incur unexpected losses if models and estimations used in connection with its risk management activities or the preparation of its financial statements are inadequate or incorrect.",
+    "quote": "JPMorganChase could incur unexpected losses if models and estimations used in connection with its risk management activities or the preparation of its financial statements are inadequate or incorrect."
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Any heightened uncertainty associated with these estimates may necessitate a greater degree of judgment and analytics to inform any adjustments that JPMorganChase may make to model outputs.",
+    "quote": "Any heightened uncertainty associated with these estimates may necessitate a greater degree of judgment and analytics to inform any adjustments that JPMorganChase may make to model outputs."
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "If JPMorganChase\u2019s models and estimations are not approved by its regulators, it could be subject to higher capital charges, which could adversely affect its financial results or limit its ability to expand its businesses.",
+    "quote": "If JPMorganChase\u2019s models and estimations are not approved by its regulators, it could be subject to higher capital charges, which could adversely affect its financial results or limit its ability to expand its businesses."
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Any such significant lapse, weakness or deficiency could result in inaccurate financial reporting which, in turn, could:",
+    "quote": "Any such significant lapse, weakness or deficiency could result in inaccurate financial reporting which, in turn, could:"
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "The ability of JPMorganChase\u2019s management to develop and execute effective business strategies, and the ability to anticipate and respond to shifts in the competitive environment, are critical to JPMorganChase\u2019s competitive standing and to achieving its strategic objectives.",
+    "quote": "The ability of JPMorganChase\u2019s management to develop and execute effective business strategies, and the ability to anticipate and respond to shifts in the competitive environment, are critical to JPMorganChase\u2019s competitive standing and to achieving its strategic objectives."
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "The values and growth prospects of JPMorganChase\u2019s businesses could suffer and its earnings could decline if management makes strategic choices that prove to be incorrect, are based on incomplete, inaccurate or fraudulent information, do not accurately assess the competitive landscape and industry trends, or fail to address changing regulatory and market environments or the expectations of clients, customers, investors, employees and other stakeholders.",
+    "quote": "The values and growth prospects of JPMorganChase\u2019s businesses could suffer and its earnings could decline if management makes strategic choices that prove to be incorrect, are based on incomplete, inaccurate or fraudulent information, do not accurately assess the competitive landscape and industry trends, or fail to address changing regulatory and market environments or the expectations of clients, customers, investors, employees and other stakeholders."
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Each of these objectives could be adversely affected by any failure by management to:",
+    "quote": "Each of these objectives could be adversely affected by any failure by management to:"
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Any expenses that JPMorganChase may incur in connection with disposing of assets, including excess properties, or exiting businesses or products could be material to its results of operations.",
+    "quote": "any expenses that JPMorganChase may incur in connection with disposing of assets, including excess properties, or exiting businesses or products could be material to its results of operations."
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Competition in the financial services industry could lead to negative effects on JPMorganChase\u2019s results of operations.",
+    "quote": "Competition in the financial services industry could lead to negative effects on JPMorganChase\u2019s results of operations."
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "The failure of any of JPMorganChase\u2019s businesses to meet the expectations of clients and customers could affect JPMorganChase\u2019s ability to attract or retain clients and customers.",
+    "quote": "The failure of any of JPMorganChase\u2019s businesses to meet the expectations of clients and customers, whether due to general market conditions, under-performance, a decision not to offer a particular product or service, changes in client and customer expectations or other factors, could affect JPMorganChase\u2019s ability to attract or retain clients and customers."
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "JPMorganChase\u2019s operations, results, and competitive standing could be adversely affected by the development of advanced technologies such as AI.",
+    "quote": "JPMorganChase\u2019s operations, results, and competitive standing could be adversely affected by the development of advanced technologies such as AI."
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "The rapid development and deployment of advanced technologies, including generative and agentic AI systems, present a range of risks to JPMorganChase\u2019s businesses and operations.",
+    "quote": "The rapid development and deployment of advanced technologies, including generative and agentic AI systems, present a range of risks to JPMorganChase\u2019s businesses and operations,"
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "The effects of climate change could adversely affect JPMorganChase\u2019s business and operations, both directly and as a result of impacts on its clients and customers.",
+    "quote": "The effects of climate change could adversely affect JPMorganChase\u2019s business and operations, both directly and as a result of impacts on its clients and customers."
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Conduct failure by JPMorganChase employees could trigger litigation and regulatory actions and harm JPMorganChase\u2019s reputation.",
+    "quote": "Conduct failure by JPMorganChase employees could trigger litigation and regulatory actions and harm JPMorganChase\u2019s reputation."
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Damage to JPMorganChase\u2019s reputation could negatively affect its business, results and prospects.",
+    "quote": "Damage to JPMorganChase\u2019s reputation could negatively affect its business, results and prospects."
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "Failure to effectively manage potential conflicts of interest or to satisfy fiduciary obligations could result in litigation and enforcement actions and cause reputational harm.",
+    "quote": "Failure to effectively manage potential conflicts of interest or to satisfy fiduciary obligations could result in litigation and enforcement actions and cause reputational harm."
+  },
+  {
+    "ticker": "JPM",
+    "category": "",
+    "title": "A failure or perceived failure to appropriately address conflicts of interest or fiduciary obligations could result in customer dissatisfaction, litigation and penalties, as well as heightened regulatory scrutiny and enforcement actions, all of which could lead to lost revenue, higher operating costs and reputational harm.",
+    "quote": "A failure or perceived failure to appropriately address conflicts of interest or fiduciary obligations could result in customer dissatisfaction, litigation and penalties, as well as heightened regulatory scrutiny and enforcement actions, all of which could lead to lost revenue, higher operating costs and reputational harm."
+  },
+  {
+    "ticker": "JPM",
+    "category": "Country",
+    "title": "An outbreak or escalation of hostilities between countries or within a country or region could have a material adverse effect on the global economy and on JPMorganChase\u2019s businesses within the affected region or globally.",
+    "quote": "An outbreak or escalation of hostilities between countries or within a country or region could have a material adverse effect on the global economy and on JPMorganChase\u2019s businesses within the affected region or globally."
+  },
+  {
+    "ticker": "JPM",
+    "category": "Country",
+    "title": "Conflicts and hostilities between countries or other antagonists could expand in unpredictable ways, including intensified cyber attacks, drawing in other adversaries, armed conflict, or escalation into full-scale war, which could have catastrophic consequences.",
+    "quote": "Conflicts and hostilities between countries or other antagonists could expand in unpredictable ways, including intensified cyber attacks, drawing in other adversaries, armed conflict, or escalation into full-scale war, which could have catastrophic consequences."
+  },
+  {
+    "ticker": "JPM",
+    "category": "Country",
+    "title": "JPMorganChase\u2019s business and operations in certain countries could be adversely affected by local economic, political, regulatory and social factors.",
+    "quote": "JPMorganChase\u2019s business and operations in certain countries could be adversely affected by local economic, political, regulatory and social factors."
+  },
+  {
+    "ticker": "JPM",
+    "category": "Country",
+    "title": "The impact of these actions could be accentuated in trading markets that are smaller, less liquid and more volatile than more-developed markets.",
+    "quote": "The impact of these actions could be accentuated in trading markets that are smaller, less liquid and more volatile than more-developed markets."
+  },
+  {
+    "ticker": "JPM",
+    "category": "Country",
+    "title": "These types of developments have in the past resulted in, and in the future could lead to, conditions that could adversely affect JPMorganChase\u2019s operations in the affected countries and impair the revenues, growth and profitability of those operations.",
+    "quote": "These types of developments have in the past resulted in, and in the future could lead to, conditions that could adversely affect JPMorganChase\u2019s operations in the affected countries and impair the revenues, growth and profitability of those operations."
+  },
+  {
+    "ticker": "JPM",
+    "category": "People",
+    "title": "JPMorganChase\u2019s performance and competitive position could be materially and adversely affected if it is unable to attract or retain qualified employees or to effectively manage succession planning for key leadership roles, such as the Chief Executive Officer, members of the Operating Committee and other senior leaders.",
+    "quote": "JPMorganChase\u2019s performance and competitive position could be materially and adversely affected if it is unable to attract or retain qualified employees or to effectively manage succession planning for key leadership roles, such as the Chief Executive Officer, members of the Operating Committee and other senior leaders."
+  },
+  {
+    "ticker": "JPM",
+    "category": "People",
+    "title": "Advances in technology, such as automation, AI and data science, could lead to workforce displacement.",
+    "quote": "Advances in technology, such as automation, AI and data science, could lead to workforce displacement."
+  }
+]

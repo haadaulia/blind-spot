@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+# keep cached data so the repo runs out of the box, but never secrets

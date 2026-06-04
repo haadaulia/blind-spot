@@ -1,0 +1,457 @@
+{
+  "target": "GS",
+  "peers": [
+    "BAC",
+    "JPM",
+    "MS"
+  ],
+  "period": "2025-12-31",
+  "sizes": {
+    "GS": 11,
+    "MS": 36,
+    "JPM": 29,
+    "BAC": 59
+  },
+  "results": [
+    {
+      "rank": 1,
+      "theme": "Climate change risks",
+      "classification": "COVERED_DIFFERENT_FRAMING",
+      "similarity": 0.381,
+      "peers": [
+        "BAC",
+        "MS"
+      ],
+      "peer_examples": [
+        {
+          "ticker": "MS",
+          "title": "We may be subject to risks due to climate-related physical risks, including harm to people and property, and supply chain disruptions.",
+          "quote": "Climate-related physical risks include harm to people and property arising from acute, climate-related events, such as floods, hurricanes, heatwaves, droughts and wildfires, and chronic, longer-term shifts in climate patterns, such as higher global average temperatures, rising sea levels and long-term droughts."
+        },
+        {
+          "ticker": "MS",
+          "title": "Modeling capabilities and methodologies to analyze climate-related risks are subject to uncertainty due to limited historical trend information and the absence of standardized and comprehensive data.",
+          "quote": "modeling capabilities and methodologies to analyze climate-related risks, although improving, remain nascent and emerging"
+        },
+        {
+          "ticker": "BAC",
+          "title": "Climate-related matters present short-, medium- and long-term risks, including physical risks such as extreme weather events and natural disasters.",
+          "quote": "Climate-related matters present short-, medium- and long-term risks. This includes physical risks such as extreme weather events and natural disasters,"
+        }
+      ],
+      "closest_in_target": {
+        "title": "The development and use of AI present risks and challenges that may adversely impact our business.",
+        "quote": "The development and use of AI present risks and challenges that may adversely impact our business."
+      },
+      "verification": {
+        "verdict": "COVERED",
+        "evidence": "Climate-related physical and transition risks could disrupt our businesses and adversely affect client activity levels and the creditworthiness of our clients and counterparties, and we are at increased risk of being subject to conflicting legal and regulatory requirements and stakeholder expectations regarding climate-related matters.",
+        "rationale": "This span describes the same risk as the claim, including physical risks and transition risks."
+      },
+      "explanation": "Verification found the target DOES disclose this, in different framing"
+    },
+    {
+      "rank": 2,
+      "theme": "Employee retention risk",
+      "classification": "COVERED_DIFFERENT_FRAMING",
+      "similarity": 0.451,
+      "peers": [
+        "BAC",
+        "JPM",
+        "MS"
+      ],
+      "peer_examples": [
+        {
+          "ticker": "MS",
+          "title": "Failure to retain and attract qualified employees may materially adversely affect our performance.",
+          "quote": "Our ability to retain and attract qualified employees is critical to the success of our business and the failure to do so may materially adversely affect our performance."
+        },
+        {
+          "ticker": "JPM",
+          "title": "Criticality of attracting and retaining qualified employees.",
+          "quote": "People risks, including the criticality of attracting and retaining qualified employees"
+        },
+        {
+          "ticker": "BAC",
+          "title": "Our ability to attract, develop and retain qualified employees is critical to our success, business prospects and competitive position.",
+          "quote": "Our ability to attract, develop and retain qualified employees is critical to our success, business prospects and competitive position."
+        }
+      ],
+      "closest_in_target": {
+        "title": "A failure to appropriately identify and address potential conflicts of interest has in the past adversely affected and may in the future adversely affect our businesses.",
+        "quote": "A failure to appropriately identify and address potential conflicts of interest has in the past adversely affected and may in the future adversely affect our businesses."
+      },
+      "verification": {
+        "verdict": "COVERED",
+        "evidence": "Our businesses would be adversely affected if we are unable to hire and retain qualified employees.",
+        "rationale": "same hazard, same mechanism"
+      },
+      "explanation": "Verification found the target DOES disclose this, in different framing"
+    },
+    {
+      "rank": 3,
+      "theme": "Litigation and regulatory risk",
+      "classification": "COVERED_DIFFERENT_FRAMING",
+      "similarity": 0.487,
+      "peers": [
+        "BAC",
+        "MS"
+      ],
+      "peer_examples": [
+        {
+          "ticker": "MS",
+          "title": "We may face claims for substantial compensatory and/or punitive damages or claims for indeterminate amounts of damages.",
+          "quote": "Certain of the actual or threatened legal or regulatory actions include claims for substantial compensatory and/or punitive damages or claims for indeterminate amounts of damages, or may result in material penalties, fines or other results adverse to us."
+        },
+        {
+          "ticker": "BAC",
+          "title": "We are subject to significant financial and reputational harm from potential liability arising from lawsuits and regulatory and government action.",
+          "quote": "We are subject to significant financial and reputational harm from potential liability arising from lawsuits and regulatory and government action."
+        }
+      ],
+      "closest_in_target": {
+        "title": "Derivative transactions and delayed documentation or settlements expose us to credit risk, unexpected risks and potential losses.",
+        "quote": "Derivative transactions and delayed documentation or settlements expose us to credit risk, unexpected risks and potential losses."
+      },
+      "verification": {
+        "verdict": "COVERED",
+        "evidence": "Substantial civil or criminal liability or significant regulatory action against us has in the past had and may in the future have material adverse financial effects and significant reputational consequences, which in turn could seriously harm our business prospects.",
+        "rationale": "This span describes the same risk as the claim, including the same hazard (litigation and regulatory action) and the same mechanism (material adverse financial effects and significant reputational consequences)."
+      },
+      "explanation": "Verification found the target DOES disclose this, in different framing"
+    },
+    {
+      "rank": 4,
+      "theme": "Financial services competition",
+      "classification": "COVERED_DIFFERENT_FRAMING",
+      "similarity": 0.494,
+      "peers": [
+        "BAC",
+        "MS"
+      ],
+      "peer_examples": [
+        {
+          "ticker": "MS",
+          "title": "We face strong competition from financial services firms and others.",
+          "quote": "We face strong competition from financial services firms and others, which could lead to pricing pressures that could materially adversely affect our revenues and profitability."
+        },
+        {
+          "ticker": "BAC",
+          "title": "Competition for qualified personnel is intense from within and outside the financial services industry.",
+          "quote": "Competition for qualified personnel is intense from within and outside the financial services industry."
+        }
+      ],
+      "closest_in_target": {
+        "title": "Our businesses have been and may in the future be adversely affected by disruptions or lack of liquidity in the credit markets, including reduced access to credit and higher costs of obtaining credit.",
+        "quote": "Our businesses have been and may in the future be adversely affected by disruptions or lack of liquidity in the credit markets, including reduced access to credit and higher costs of obtaining credit."
+      },
+      "verification": {
+        "verdict": "COVERED",
+        "evidence": "The financial services industry is highly competitive.",
+        "rationale": "The span describes the same risk, same hazard (high competition) and same mechanism (industry characteristics)."
+      },
+      "explanation": "Verification found the target DOES disclose this, in different framing"
+    },
+    {
+      "rank": 5,
+      "theme": "",
+      "classification": "PARTIAL",
+      "similarity": 0.511,
+      "peers": [
+        "BAC",
+        "MS"
+      ],
+      "peer_examples": [
+        {
+          "ticker": "MS",
+          "title": "Regulatory restrictions, tax restrictions or elections and other legal restrictions may limit our ability to transfer funds freely, either to or from our subsidiaries.",
+          "quote": "Regulatory restrictions, tax restrictions or elections and other legal restrictions may limit our ability to transfer funds freely, either to or from our subsidiaries."
+        },
+        {
+          "ticker": "BAC",
+          "title": "Inability of subsidiaries to transfer funds could adversely affect our cash flow, liquidity and financial condition.",
+          "quote": "Any inability of our subsidiaries to transfer funds, pay dividends or make payments to the parent company may adversely affect our cash flow, liquidity and financial condition."
+        },
+        {
+          "ticker": "BAC",
+          "title": "Regulatory action could impede access to funds needed to pay our obligations or pay dividends.",
+          "quote": "Regulatory action that requires additional liquidity at our subsidiaries could impede access to funds we need to pay our obligations or pay dividends."
+        }
+      ],
+      "closest_in_target": {
+        "title": "Our businesses have been and may in the future be adversely affected by disruptions or lack of liquidity in the credit markets, including reduced access to credit and higher costs of obtaining credit.",
+        "quote": "Our businesses have been and may in the future be adversely affected by disruptions or lack of liquidity in the credit markets, including reduced access to credit and higher costs of obtaining credit."
+      }
+    },
+    {
+      "rank": 6,
+      "theme": "",
+      "classification": "PARTIAL",
+      "similarity": 0.522,
+      "peers": [
+        "BAC",
+        "MS"
+      ],
+      "peer_examples": [
+        {
+          "ticker": "MS",
+          "title": "Our models may not anticipate future market conditions, such as the impact of a pandemic or a geopolitical conflict, which could cause us to incur losses.",
+          "quote": "Many models we use are based on assumptions or inputs regarding correlations among prices of various asset classes or other market indicators and, therefore, may not anticipate future market conditions, such as the impact of a pandemic or a geopolitical conflict, which could cause us to incur losses."
+        },
+        {
+          "ticker": "BAC",
+          "title": "Our models may not be sufficiently predictive of future results, including from limited historical patterns, extreme or unanticipated market movements.",
+          "quote": "Our models may not be sufficiently predictive of future results, including from limited historical patterns, extreme or unanticipated market movements"
+        }
+      ],
+      "closest_in_target": {
+        "title": "Our businesses have been and may in the future be adversely affected by disruptions or lack of liquidity in the credit markets, including reduced access to credit and higher costs of obtaining credit.",
+        "quote": "Our businesses have been and may in the future be adversely affected by disruptions or lack of liquidity in the credit markets, including reduced access to credit and higher costs of obtaining credit."
+      }
+    },
+    {
+      "rank": 7,
+      "theme": "",
+      "classification": "PARTIAL",
+      "similarity": 0.54,
+      "peers": [
+        "BAC",
+        "MS"
+      ],
+      "peer_examples": [
+        {
+          "ticker": "MS",
+          "title": "Default by a large financial institution or financial services firm could adversely affect financial markets.",
+          "quote": "adversely affect financial markets."
+        },
+        {
+          "ticker": "BAC",
+          "title": "Defaults by one or more counterparties, or market uncertainty about the financial stability of one or more financial services institutions, could lead to market-wide liquidity disruptions, losses, defaults and related disputes and litigation.",
+          "quote": "Defaults by one or more counterparties, or market uncertainty about the financial stability of one or more financial services institutions, or the financial services industry generally, could lead to market-wide liquidity disruptions, losses, defaults and related disputes and litigation."
+        }
+      ],
+      "closest_in_target": {
+        "title": "Our businesses have been and may in the future be adversely affected by disruptions or lack of liquidity in the credit markets, including reduced access to credit and higher costs of obtaining credit.",
+        "quote": "Our businesses have been and may in the future be adversely affected by disruptions or lack of liquidity in the credit markets, including reduced access to credit and higher costs of obtaining credit."
+      }
+    },
+    {
+      "rank": 8,
+      "theme": "",
+      "classification": "PARTIAL",
+      "similarity": 0.559,
+      "peers": [
+        "BAC",
+        "JPM"
+      ],
+      "peer_examples": [
+        {
+          "ticker": "JPM",
+          "title": "Losses due to declines in the value of collateral.",
+          "quote": "the potential for losses due to declines in the value of collateral"
+        },
+        {
+          "ticker": "BAC",
+          "title": "If asset values decline, we may incur losses and negative impacts.",
+          "quote": "If asset values decline, we may incur losses and negative impacts,"
+        }
+      ],
+      "closest_in_target": {
+        "title": "We have in the past incurred and may in the future incur losses as a result of ineffective risk management processes and strategies.",
+        "quote": "We have in the past incurred and may in the future incur losses as a result of ineffective risk management processes and strategies."
+      }
+    },
+    {
+      "rank": 9,
+      "theme": "",
+      "classification": "PARTIAL",
+      "similarity": 0.566,
+      "peers": [
+        "BAC",
+        "MS"
+      ],
+      "peer_examples": [
+        {
+          "ticker": "MS",
+          "title": "Our risk management capabilities may not be fully effective in mitigating our risk exposure in all market environments or against all types of risk, including risks that are unidentified or unanticipated.",
+          "quote": "Our risk management capabilities may not be fully effective in mitigating our risk exposure in all market environments or against all types of risk, including risks that are unidentified or unanticipated."
+        },
+        {
+          "ticker": "BAC",
+          "title": "Our risk management framework may not be effective in mitigating risk and reducing the potential for losses.",
+          "quote": "Our risk management framework may not be effective in mitigating risk and reducing the potential for losses."
+        }
+      ],
+      "closest_in_target": {
+        "title": "We have in the past incurred and may in the future incur losses as a result of ineffective risk management processes and strategies.",
+        "quote": "We have in the past incurred and may in the future incur losses as a result of ineffective risk management processes and strategies."
+      }
+    },
+    {
+      "rank": 10,
+      "theme": "",
+      "classification": "PARTIAL",
+      "similarity": 0.571,
+      "peers": [
+        "JPM",
+        "MS"
+      ],
+      "peer_examples": [
+        {
+          "ticker": "MS",
+          "title": "Our businesses and operations may be adversely impacted by inadequate data quality management processes.",
+          "quote": "adversely impacted by inadequate data quality management processes,"
+        },
+        {
+          "ticker": "JPM",
+          "title": "Risks related to data management processes.",
+          "quote": "risks related to data management processes"
+        }
+      ],
+      "closest_in_target": {
+        "title": "A failure in our or third-party operational systems or human error, malfeasance or other misconduct, could impair our liquidity, disrupt our businesses, result in the disclosure of confidential information, damage our reputation and cause losses.",
+        "quote": "A failure in our or third-party operational systems or human error, malfeasance or other misconduct, could impair our liquidity, disrupt our businesses, result in the disclosure of confidential information, damage our reputation and cause losses."
+      }
+    },
+    {
+      "rank": 11,
+      "theme": "",
+      "classification": "PARTIAL",
+      "similarity": 0.584,
+      "peers": [
+        "BAC",
+        "MS"
+      ],
+      "peer_examples": [
+        {
+          "ticker": "MS",
+          "title": "Regulatory requirements that are imposed by foreign policymakers and regulators may be inconsistent or conflict with regulations that we are subject to in the U.S. and may adversely affect us.",
+          "quote": "In addition, regulatory requirements that are imposed by foreign policymakers and regulators may be inconsistent or conflict with regulations that we are subject to in the U.S. and may adversely affect us."
+        },
+        {
+          "ticker": "BAC",
+          "title": "Regulatory initiatives in the U.S. and abroad may overlap, and non-U.S. regulations and initiatives may be inconsistent or conflict with current or proposed U.S. regulations or with each other, which could lead to compliance risks and higher costs.",
+          "quote": "Also, regulatory initiatives in the U.S. and abroad may overlap, and non-U.S. regulations and initiatives may be inconsistent or conflict with current or proposed U.S. regulations or with each other,"
+        }
+      ],
+      "closest_in_target": {
+        "title": "Our businesses and those of our clients are subject to extensive and pervasive regulation around the world.",
+        "quote": "Our businesses and those of our clients are subject to extensive and pervasive regulation around the world."
+      }
+    },
+    {
+      "rank": 12,
+      "theme": "",
+      "classification": "PARTIAL",
+      "similarity": 0.616,
+      "peers": [
+        "BAC",
+        "JPM"
+      ],
+      "peer_examples": [
+        {
+          "ticker": "JPM",
+          "title": "Significant deterioration in credit quality of counterparties could lead to concerns about creditworthiness of other parties in similar industries.",
+          "quote": "a significant deterioration in the credit quality of a counterparty, borrower or other obligor could lead to concerns about the creditworthiness of other parties in similar, related or dependent industries."
+        },
+        {
+          "ticker": "BAC",
+          "title": "Deterioration in the financial condition of our consumer and commercial borrowers, counterparties or underlying collateral could adversely affect our results of operations and financial condition.",
+          "quote": "Deterioration in the financial condition of our consumer and commercial borrowers, counterparties or underlying collateral could adversely affect our results of operations and financial condition."
+        }
+      ],
+      "closest_in_target": {
+        "title": "Our businesses have been and may in the future be adversely affected by disruptions or lack of liquidity in the credit markets, including reduced access to credit and higher costs of obtaining credit.",
+        "quote": "Our businesses have been and may in the future be adversely affected by disruptions or lack of liquidity in the credit markets, including reduced access to credit and higher costs of obtaining credit."
+      }
+    },
+    {
+      "rank": 13,
+      "theme": "",
+      "classification": "PARTIAL",
+      "similarity": 0.62,
+      "peers": [
+        "BAC",
+        "MS"
+      ],
+      "peer_examples": [
+        {
+          "ticker": "MS",
+          "title": "Legal, regulatory and compliance risk includes the risk of legal or regulatory sanctions; material financial loss, including fines, penalties, judgments, damages and/or settlements; limitations on our business; or loss to reputation we may suffer as a result of our failure to comply with laws, regulations, rules, related self-regulatory organization standards and codes of conduct applicable to our business activities.",
+          "quote": "Legal, regulatory and compliance risk includes the risk of legal or regulatory sanctions; material financial loss, including fines, penalties, judgments, damages and/or settlements; limitations on our business; or loss to reputation we may suffer as a result of our failure to comply with laws, regulations, rules, related self-regulatory organization standards and codes of conduct applicable to our business activities."
+        },
+        {
+          "ticker": "BAC",
+          "title": "We may be harmed by actual or perceived failure to maintain effective compliance.",
+          "quote": "Our reputation and business prospects may also be harmed by actual or perceived failure to maintain effective compliance"
+        }
+      ],
+      "closest_in_target": {
+        "title": "A failure in our or third-party operational systems or human error, malfeasance or other misconduct, could impair our liquidity, disrupt our businesses, result in the disclosure of confidential information, damage our reputation and cause losses.",
+        "quote": "A failure in our or third-party operational systems or human error, malfeasance or other misconduct, could impair our liquidity, disrupt our businesses, result in the disclosure of confidential information, damage our reputation and cause losses."
+      }
+    },
+    {
+      "rank": 14,
+      "theme": "",
+      "classification": "REWORDED",
+      "similarity": 0.681,
+      "peers": [
+        "BAC",
+        "JPM",
+        "MS"
+      ],
+      "peer_examples": [
+        {
+          "ticker": "MS",
+          "title": "The cost and availability of unsecured financing generally are impacted by (among other things) our long-term and short-term credit ratings.",
+          "quote": "The cost and availability of unsecured financing generally are impacted by (among other things) our long-term and short-term credit ratings."
+        },
+        {
+          "ticker": "JPM",
+          "title": "Significant expansion of private credit could worsen losses among non-bank lenders and their borrowers.",
+          "quote": "the interconnectivity across credit markets increases the risk that the significant expansion of private credit could worsen losses among non-bank lenders and their borrowers,"
+        },
+        {
+          "ticker": "BAC",
+          "title": "Credit rating downgrades could increase our borrowing costs.",
+          "quote": "A downgrade could widen our credit spread, negatively affect our access to credit markets, the related cost of funds,"
+        }
+      ],
+      "closest_in_target": {
+        "title": "Our businesses have been and may in the future be adversely affected by disruptions or lack of liquidity in the credit markets, including reduced access to credit and higher costs of obtaining credit.",
+        "quote": "Our businesses have been and may in the future be adversely affected by disruptions or lack of liquidity in the credit markets, including reduced access to credit and higher costs of obtaining credit."
+      }
+    },
+    {
+      "rank": 15,
+      "theme": "",
+      "classification": "REWORDED",
+      "similarity": 0.715,
+      "peers": [
+        "JPM",
+        "MS"
+      ],
+      "peer_examples": [
+        {
+          "ticker": "MS",
+          "title": "Operational risk can be caused by a failure, breach or other disruption of our operations or security systems or those of our third parties.",
+          "quote": "a failure, breach or other disruption of our operations or security systems or those of our third parties,"
+        },
+        {
+          "ticker": "JPM",
+          "title": "Failing to identify and address operational risks associated with the introduction of or changes to products, services and delivery platforms or technologies.",
+          "quote": "the adverse effects of failing to identify and address operational risks associated with the introduction of or changes to products, services and delivery platforms or technologies"
+        }
+      ],
+      "closest_in_target": {
+        "title": "A failure in our or third-party operational systems or human error, malfeasance or other misconduct, could impair our liquidity, disrupt our businesses, result in the disclosure of confidential information, damage our reputation and cause losses.",
+        "quote": "A failure in our or third-party operational systems or human error, malfeasance or other misconduct, could impair our liquidity, disrupt our businesses, result in the disclosure of confidential information, damage our reputation and cause losses."
+      }
+    }
+  ],
+  "verification": {
+    "confirmed": 0,
+    "downgraded": 4
+  }
+}
